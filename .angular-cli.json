@@ -54,6 +54,9 @@
     }
   },
   "defaults": {
+    "build": {
+      "namedChunks": true
+    },
     "styleExt": "css",
     "component": {}
   }
